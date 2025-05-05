@@ -28,7 +28,7 @@ You can install the development version of `tickr` from GitHub:
 
 ``` r
 # install.packages("remotes")
-remotes::install_github("BenWilliams-NOAA/tickr")
+remotes::install_github("ben-williams/tickr")
 ```
 
 ## Example
